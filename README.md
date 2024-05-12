@@ -68,16 +68,7 @@
     <img src="https://i.imgur.com/A0IXKwl.png"/>   
   </a>
 </h3>
-  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leonnik28&theme=tokyonight&card_width=450&card_height=200" alt="GitHub Streak" /></a>
-  </p>
 <p align="center">
- <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonnik28&layout=donut&theme=tokyonight" height="224"/></a> 
- <a><img src="https://github-readme-stats.vercel.app/api?username=leonnik28&show_icons=true&theme=tokyonight" height="224"/></a> 
-
+ <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonnik28&layout=donut&theme=tokyonight" width="400"/></a> 
 </p>
-  <p align="center">
-    <a>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonnik28&theme=tokyo-night" height="317"/>
-    </a>
-  </p>
+
