@@ -16,7 +16,10 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26A5E4"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hh.ru/resume/586fa153ff0c3e24000039ed1f797931727032" target="_blank" title="HeadHunter">
-    <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/200px-HeadHunter_logo.png" /></a>
+    <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/200px-HeadHunter_logo.png"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1ZRX24kZBQwfo7nFy0FXmCXVyA5NdLhwa/view" target="_blank" title="CV">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/read.cv/111111"/></a>
 </p>
 <h2 align="center">
   <a>
@@ -44,11 +47,11 @@
   </a>
 </h3>
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leonnik28&theme=tokyonight&card_width=600&card_height=200" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leonnik28&theme=tokyonight&card_width=450&card_height=200" alt="GitHub Streak" /></a>
   </p>
 <p align="center">
   <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonnik28&layout=donut&theme=tokyonight" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonnik28&layout=donut&theme=tokyonight" width="450"/>
   </picture>
 </p>
 <h4 align="center">
