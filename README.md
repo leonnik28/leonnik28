@@ -52,6 +52,8 @@
       <img src="https://github-readme-stats.vercel.app/api/pin?username=leonnik28&repo=GalaxyGunner&theme=tokyonight"/>
     </a>
   </picture>
+</p>
+<p align="center">
   <picture>
     <a href="https://github.com/leonnik28/JavaWorkTerm4">
       <img src="https://github-readme-stats.vercel.app/api/pin?username=leonnik28&repo=JavaWorkTerm4&theme=tokyonight"/>
