@@ -9,7 +9,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/leanid-rusetski-82373129b" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/leanid-rusetski-unity-developer" target="_blank" title="LinkedIn">
     <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/leonnik28" target="_blank" title="Telegram">
