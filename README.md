@@ -61,7 +61,7 @@
   </picture>
   <picture>
     <a href="https://github.com/leonnik28/CourseWorkTerm4">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=leonnik28&repo=CourseWorkTerm4&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=leonnik28&repo=CubeMatchingGame&theme=tokyonight"/>
     </a>
   </picture>
 </p>
