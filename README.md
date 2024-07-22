@@ -55,12 +55,12 @@
 </p>
 <p align="center">
   <picture>
-    <a href="https://github.com/leonnik28/JavaWorkTerm4">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=leonnik28&repo=JavaWorkTerm4&theme=tokyonight"/>
+    <a href="https://github.com/leonnik28/ClickerAdventuresGame">
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=leonnik28&repo=ClickerAdventuresGame&theme=tokyonight"/>
     </a>
   </picture>
   <picture>
-    <a href="https://github.com/leonnik28/CourseWorkTerm4">
+    <a href="https://github.com/leonnik28/CubeMatchingGame">
       <img src="https://github-readme-stats.vercel.app/api/pin?username=leonnik28&repo=CubeMatchingGame&theme=tokyonight"/>
     </a>
   </picture>
