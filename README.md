@@ -36,8 +36,6 @@
     &nbsp;
     <img src="https://img.shields.io/badge/blender-1a1b27?logo=blender"/></a>
     &nbsp;
-    <img src="https://img.shields.io/badge/android studio-1a1b27?logo=androidstudio"/></a>
-    &nbsp;
     <img src="https://img.shields.io/badge/C++-1a1b27?logo=cplusplus"/></a>
   </a>
 </p>
