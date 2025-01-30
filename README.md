@@ -1,6 +1,6 @@
 <h1 align="center">
   <a>
-    <img src="https://i.imgur.com/KyOW2Ku.png"/>   
+    Leanid Rusetski   
   </a>
 </h1>
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 <h2 align="center">
   <a>
-    <img src="https://i.imgur.com/FtE9Wjg.png"/>   
+    Skills  
   </a>
 </h2>
 <p align="center">
@@ -41,7 +41,7 @@
 </p>
 <h4 align="center">
     <a>
-    <img src="https://i.imgur.com/yeYr1Oy.png"/>   
+    Projects  
   </a>
 </h4>
 <p align="center">
@@ -65,7 +65,7 @@
 </p>
 <h3 align="center">
     <a>
-    <img src="https://i.imgur.com/A0IXKwl.png"/>   
+    Stat  
   </a>
 </h3>
 <p align="center">
